@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": "pz1",
+      "name": "hawaiian pizza",
+      "description": "description 1",
+      "price": 100,
+      "image": "https://10daily.com.au/ip/s3/2018/09/20/2ee4f352cdffbf774a9824e4abced9ba-83493.jpg?image-profile=card_full&io=landscape",
+      "category": "pizza"
+    },
+    {
+      "id": "ic1",
+      "name": "Vanilla cone",
+      "description": "Everyone love vanilla",
+      "price": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzDCbxQoLBttF8sgRUuqgUw2d9Yz-dxCFZ1b0bXQzpl1Q8eDZ71A",
+      "category": "ice cream"
+    },
+    {
+      "id": "bb1",
+      "name": "Meat hamburger",
+      "description": "description 1",
+      "price": 15,
+      "image": "https://www.seriouseats.com/recipes/images/2015/07/20150728-homemade-whopper-food-lab-35-1500x1125.jpg",
+      "category": "hamburger"
+    },
+    {
+      "id": "bb2",
+      "name": "Pork hamburger",
+      "description": "description 1",
+      "price": 12,
+      "image": "https://food-images.files.bbci.co.uk/food/recipes/pork_and_apple_burger_94249_16x9.jpg",
+      "category": "hamburger"
+    },
+    {
+      "id": "bb3",
+      "name": "Black burger",
+      "description": "Black burger made with chocco bun.",
+      "price": 20,
+      "image": "https://i.ytimg.com/vi/P4fk9h2ZlqM/maxresdefault.jpg",
+      "category": "hamburger"
+    },
+    {
+      "id": "pz2",
+      "name": "Bitcoin pizza",
+      "description": "Celebrate bit coin day with these pizza",
+      "price": 80,
+      "image": "https://siamblockchain.com/wp-content/uploads/2018/05/shutterstock_1058194997-740x492.jpg",
+      "category": "pizza"
+    },
+    {
+      "id": "ic2",
+      "name": "Rainbow",
+      "description": "Rainbow ice cream",
+      "price": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJbCBn4qFq0b3vc--H_N0L28TFW5Mvp4ARvS6OfyMTmZUw_lJZ",
+      "category": "ice cream"
+    }
+  ]
+}
